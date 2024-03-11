@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: PyNLcJhhkOoJC0Dd82tGlDtCUo49vzCQgPnfDbUElfK35ZXXS1dr3NPKMR7TtFMgijqH1y3+Px+EefJ8vzFurPEO8zm+aT6sM1cen21Ev+AnXxDXf4LoLE/tOTV0dmmRz8YcrzzpGf6nbw/ZvPVxi8C70Y6ur0Yw9VJ4JR5+9EBjNicWQU3h4jyqDhLzXyCqd31piO6yuO+Gc17b2O6hjwlSbiYOXckLPnHBjrHy28wz+dSLLYmdJ22go3hSoLHjTW0eH1bfwGmN7XMh455HokZxhYFE4Mw7pOW6GQJ3GuQ2kjm/ORxm8G7tPLRUhOdYoriPx37YJJep+XWdWNa5OT0GWLN5aR9aFYGG3tOqzfx/j/lWu9ABnYmfrY33Q1mKCp0cJG7C/EcmA+Ir859LltRG2i1L77GzBC+IaTZzheVfnIkWrTXhZrO9HzxM1UtLKeD9LrqLDn7CDEjRdDZ1tJRKwaZACrXA16qkcX162HqboGigFwc2F3sKappjoZloT2VoIrKh2iPpR+5LLEm9n41nMbpE/OyTyGeOjVPlsUTrF2+B/wOigpreAPHCAZKg9882X116vr84mPOf47z1FX/CPc4HEauLTGZPK7HOubOP7VDxgn5iLu7DvTydrCC7ZruhSJl8f6Q7in3/am2PRgdkLtvQb4MLQutSZuePuo32nhI/1Hi0d2BdEEEwr07Q4AH8ZHtR8QRBk4NXh9K0E8TDJ4n/ZLBHjcn4mgMTEEZq+wFqqTahL/VEhd5lWypKaScWiWBASDwhY/iG37Vonf7/OX2xX8kEprDf287GKeepkhkXqecwyYIcjrB9Guxbw4YXMiUFCtT/OJuUiBrX3sFftr49e1kXIjeiKbb13FraMu3bSJP/HNdDImowzZWk
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: flow regnemaskine while.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

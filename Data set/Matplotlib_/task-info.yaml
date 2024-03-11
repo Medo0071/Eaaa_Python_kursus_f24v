@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: 0DZBS0R8XNQpItonZw4uKT59pFNQveFazUUrpWmTFRJDd0QYBXzRlVZAbEbAG4G0puG+fIZuf02Fd3bjgyWd0mbySpr/+7D+74a+GduYl/417Vu5M4VQisLtwJ3Tvj3GRqV7yfg8O2wQf1VvKYO6zCyFM/LDNjzvtlMLk31mWMinNW7zkyn5nkiDsKGnIzfIOm5KLKOuTa3x9OMzEnEOOg==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

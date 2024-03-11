@@ -1,0 +1,53 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: OnEbRb6gUkm9qWOoN21uMUBOyfmHiJH7iqdwnPDn3k7VEnPX66Jzx2pnpTF3Ur5KEMNAMlZEb/h2ZYKZP2QwDgsFfIrhTFJxfL79vbmCl+uJdjXDCRS6QUaTcdxQMT14BUbMFlhdFbO4zoVO12SvPU5mK224Vi/ydXKH1lbWCIAyTZGGH20QCHgwlR45vStEqjABjTsnTqGu6QBKG5l556Jt8VdzZ3C6bF5cFGUUFsHvrC9sVxPGNj+rHLLVN/UbDCcYtyjaUJsJ11hm/snCHl1dDRp+40KU8oITjaPI1MReXl7TI1yTYIWN9r1TudXv/KPX7sRQZVrok3U4xd9nZB6WqzMG3w9+9AEU0lHks4jW5cKb/c6YaWSwpk6fYazNquGXIxjT279xaLPFme8RiU+U6zPRJ2wFkt2QH0sfxkL30BB8p8XMeKB4yx8ZD8emEhYVOP5jqMaKItuYNNWDGCOezCtU4X46wgvDMPdaDrC+z0B3LBKc0/dm5p7GBau9w+SMkkTfEqRw9dxxXjN9dWyf5vzQA+vhQUI4PGukTYR5l1UxdCI5kT4+JM+y/uJwuG2CPEmhkszPaQ0cu+2qT+C2nsspFI8ZAugyemcZ6ruHIzIM6OfbEqO9dGyUsl80Mdc/71n1BP+c8H78VYAxKbLuiVFpNB8FclxZGBYMFw1Uct+gajnPLSTkRHxNg05I98T8+kaN8xwdGsvyuaDI4w2aPcau2H99gkBWQhSLnlkylb6Y/hoRzC9bQm0FW39MTIXKl7fnRybjhPKRe6fWrxepHdupNHkdYlTGY0Ets9FnsvpaOjel8Szjwa9yPH5P2WM7fNW2eIU4diGqOXTsplkMgPd9V4ne7yhklnwqSC1XHumPBcrkZhV69J2T2r2U/hNMAda2b6XsmKe89/3u7VVO/dfB5Tr/VHrBwgD0BKGk9K/lbmImOgUllYnFWAAFMy7qHT4KSQCBnNfdpQwyvTe9nF84+jnHvdQHXjQYL+bRhkr3PQUOcEFHyrtMbzKgGGFEpr/inRRo5KOXI+VABldtz8rcPQ/LWj0NPEsDJK8=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: lkfile.txt
+    visible: true
+    encrypted_text: NyrzasjorvB0xAygipMNiuo0S2NBhkquFkHGx4TlTXE/e0zmJiCARmd9XImgQsF2
+    learner_created: false
+  - name: Open file fejl.py
+    visible: true
+    encrypted_text: bb5FNXdg0PN9/ZrA9QnDpXbyGnQj+e+maPcdROpckX67IJAXA4HHR4xPePTKmXcvhQVk1l/e9u1+AgwMURa56YSguN/ccYH5tNsyS+rBqf+9TXOrPYgg/BMsOWfIno99BzBNZ9Po4K0KCQWpn/1wkkW6FKwddDmVfvlufQnXODKN981t8je1SaR9eAyOAMlko2M1Ma9mwynI5ZjaXauoqQ==
+    learner_created: false
+  - name: Closefile.py
+    visible: true
+    encrypted_text: bb5FNXdg0PN9/ZrA9QnDpXbyGnQj+e+maPcdROpckX67IJAXA4HHR4xPePTKmXcvhQVk1l/e9u1+AgwMURa56WSMjKJg1SkHHlp5+doCbQxJUkNSyD1Sc8yl8p3KkRmoTBelI0sukI0284AAni4qlyQm3XcV/1h8gdCo7sxvYDoOz5TWEXF5nVL2FV19UrKGqApCBkL/BbbR5pRnWqa6Vg==
+    learner_created: false
+  - name: writefile.py
+    visible: true
+    encrypted_text: bb5FNXdg0PN9/ZrA9QnDpXbyGnQj+e+maPcdROpckX6C1HapNHtDOyjSwq9kH9oxYvOviQWlpowFiDihMvkCmN3W+dgTH9bEl5GOdGzwR4Wtv0UtuuyqX4oQf5bnupl6++somY+ruZLQNVc991Ldpb9q+v6u7bTkJg7wQu1GwNjB+JjQe5YjYJ+aPbokXp9tp670Zqr85VAukBTsO7Cxis5bU5VD8u4aEAsUUFSszp4=
+    learner_created: false
+  - name: openfile.py
+    visible: true
+    encrypted_text: bb5FNXdg0PN9/ZrA9QnDpXbyGnQj+e+maPcdROpckX6Wg4j+q29XGDDJK0rgBtlTuocdtAe4Zt67QQ4l/jddrYJEoI7NrWbkUvrh8NgtTib7io5Vi5RGpY+xUl0VnYl4JvAwuKP6FaPfgjZrbz5pek8u7T2NksMxSv57R9GUhcE=
+    learner_created: false
+  - name: rename file.py
+    visible: true
+    encrypted_text: wzl6vuymrn3SnsFvXjEuLa2fDAJmmEEvOe3MUktWCrwklbdmOfzumv4BudAca4Agn0YWh/aivTAqBnp4U9PFH0WGWDL9cG5Zl7vZzV/+m1OeR5g1x10kvnFVrbhYaK+3
+    learner_created: false
+  - name: test2.txt
+    visible: true
+    encrypted_text: LASa1m4zVF2st/66pTNL3u0Tk74bVz+O0AFvyEYxcMdkHKli88BwG3LER6X1IIE3
+    learner_created: false
+  - name: Removefile.py
+    visible: true
+    encrypted_text: X3RfmTJ9+io9blM8TPwRxcVvYExXVAv8IuBRzT9P6ax9r1ySx9LjOqQH6DO1+nPxspXfpD/67bxadcMivv1dLw==
+    learner_created: false
+  - name: Exceptions.py
+    visible: true
+    encrypted_text: Afc5ZEjZmvNP8Uu44XdivNR2/zNWfhtKzWc8TYKnQRo+rF9lZLClKSBaXo+no6Gj+DuoIz/DyONtTVvsnpAREbS9sNDPVTlvSEQxzDYuyQfrB9lSa/KloKRYpkC6eUrimiTPiRr9ngUuf/eJKXY9myh4Lyba/GeDgi55d8jsBEMoWT318FdlzYKdJxVKym8HH/DSIwKDC8SiFPfZEEh/nzOM+xO11AhoZEnouwbMAro=
+    learner_created: false
+  - name: foo.txt
+    visible: true
+    encrypted_text: LASa1m4zVF2st/66pTNL3u0Tk74bVz+O0AFvyEYxcMflhpnWKPsaFMW88Jn9jmLf
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

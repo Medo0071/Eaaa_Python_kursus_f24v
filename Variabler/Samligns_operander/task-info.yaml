@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: WeMz57kKo57eSpZ0ZJ7H2zwFJPIGpRHVKmkAJRZiry1xIQaOZcjU481uxGSf/ebOI5Ygs9L/rCnH7lQiyG5uAHHJ/Ja+VgyCL/N7eqqz7jWleB0ywazITgdP1/xE+1MKRe9/E6tuoUAUAbWXFqPfIP1c3sc2ms8sZeBInOOL1AzQ44AhUXrYk+j1ARM1kUjix+312mUasSwaKLgYgFx2LyzVHx2y4+2D8bjYc+KQDsudddHUKAlG2Q6M0YbMd1gacV8JdXvOflmrn/QtOBSFhSzYyOT7eTanvQGvLjtTIkVWkVO0BjIOhFU6+3QsrrQ2
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: samlign.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

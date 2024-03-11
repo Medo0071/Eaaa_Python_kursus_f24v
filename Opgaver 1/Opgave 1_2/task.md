@@ -1,0 +1,1 @@
+Lav et program der konvertere celsius til farhenheit

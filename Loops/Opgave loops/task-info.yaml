@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: t8iouQ6SWB60ROmMTv0v60/NRGJD1WrG7cOVlOgOBTUliP09LTnVlhJ6KBpWfADzbEk5248Yck90hvjFFAgV7tIKHYHqmWpuxZE+HoAPwgmgAL1ow59Js/DE8AgjfA4PqTQqVCF+rHN0UVxmiPoWurTF3/ZY22p0Hkb9PtA2lVbgP+/orBZ+FufxRS8qp/cg+V35DuwiOefxRGBygkenz8Y0trw3IdqUPgWj9DNTIoKosZZYK8Yeb6AnT+yRS2eNLi0cplXvAgNS3cTzeulruB/2ebckB8qDi+cb9oDhrm23kYbx0oEzs+779Xo348E9OOU9bAb0OEHsKlU264TrKZZEblaYNY6lxAkWh87WAbyXtFDM64/kpphbVvDU4YZkA7cV2nWMoWrTBrKK0uWsWiA+J7V0RGA2A1ZytGoglReHcX5rQWozylSYrqaJs4mGJ2ljRcUQr8bDnqFZ4rEZuYe4Vz/ywnq/O0M3mwedsTtdxxXQkCFclXKcBV2F3vN9QjywR0SW7g0Zh0VFkRcuFNxmPFa61umRuFdae2gSxT7SXeQMtOVRuBRvmEDKj0HeHitz9OsirAJSXWmzySW0KEZUr6Pwklp9EileHOCsr8IIfy4WMd7KfQ9s/TsQAVj+LJlZ/JKYVW0uU/aKZEi/KcrakZD2hOJQUKyzKf6DEg+kgp5HG+PJ5oErknIatvejoYbQWOo69GSvdEC0zXsPWPGiQUpAyr+PUh2q5u9dCyAIfl6SAPjeryyqgN7ZPQIn
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

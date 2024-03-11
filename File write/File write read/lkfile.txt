@@ -1,0 +1,3 @@
+lasse
+kaae
+Filens navn er:lkfile.txt

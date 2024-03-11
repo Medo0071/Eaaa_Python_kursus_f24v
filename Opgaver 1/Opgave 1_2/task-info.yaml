@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: Dnk+4Zb7F5IKbsETtVf8AQQL+3y7OKJZ2f7wIKGzU7X+7GBtuylSVIBZppXTNX+4
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

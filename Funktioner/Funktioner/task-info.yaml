@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: S+uWfKetufRCsKJjNE/HQ8X7CpPzCAJVdbbzN5oxL5FmE9XwSxOcy9EY3Cl3EehcT63D+npqchHUYyZaW6AmdbSg+6Wc6HWXtPRIndXpvhepgf7acnW42c7t/XqD3LcGopSvkRKDenN7Y1eb0HGNVSeODmiqDFkIoLmtr7Z+dP3XGRZ4EC71cpSzrY5yHwheset6opKHc9F6p9XIYOf5XQMeo8pdHTZUi1rumMkXsFEB+Yj0lq1ZB/LXYOzFVVQEexU0c0mBLAYjk/MSPex+SmAiz0mFcevQ1iur0nmCR0HGI7o2fml+r2NPyLAr2nfSDrHY3LAOQ18GuSFQOWhygAE2fW46aCGyhE5GsNdWd/4QBVP0iVrp6MjvUIwC+C5PaWysU9fPDDf5oBRIMdZZ+9gA8G/tX2JnAvcjlq4k2gBczd8P9j6hAFiREmItKlSzPXDndOjY8TAT4Et8DuM+RGzknTQRT/KfgAV9MymVbNm9D2ywZi2Ua588K1JEfxIXUuh51ljp77L9n1ktKwpmBg==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

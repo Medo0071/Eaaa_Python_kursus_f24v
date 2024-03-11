@@ -1,0 +1,25 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: pRFHOJ/uQwwdnYVAIyDUGp38Ly9Ji0F3PaPulCKGZhk5/u+yxZMNGwNm63h8RPVlfyic3cecWxar6ql4Ib9QnubHTemHjAvD3ve/Nsxmqkenz5zewdfcXCfDgXbaagk7g67BV2yAMMZW6w0u38TtQeJfWEylfDmc/lRVFd3X4Zq+bRt9YClPi0dsa5WlON42ZpAa5NUNYhIwl0V1qKhvRg==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: Opgave2.py
+    visible: true
+    encrypted_text: JThvdLGmmxr/zs04i8D5enZwU8955b0Vh9hSDDqxkNRRh7YDJ9QWmboq3OcWxdolOtLkPGyyxKj4xQg9u7mD9J+N4OkZzaFlRoofeoV+8uJpin79SBDxWnmHP5ezTZe4bsl9+ielnxXYF3BklpqXkqEG3tXv8507GN1OTmt73eM=
+    learner_created: false
+  - name: Opgave3.py
+    visible: true
+    encrypted_text: 9mbnFGh/KAUa8BGpYCf9l/FoayTIdA+Qq1D0w7ouGr1/is3Lu+MeEEbZJlB+OmBadeyJQMC+6pwDtcJCFXEXwjxcOHreY1LTZ3EvgtXbddN7GbEU9qOH53UoP+ipDRoNIaUjzdODn2Gkf8U61X0G9TbjMcJ2Is8mXvfXC3n1SL0H1/46iEF83rpEuNtf+revvI7RH2KSHMFHeH7VoepGTA==
+    learner_created: false
+  - name: Opgave4.py
+    visible: true
+    encrypted_text: UUHcpSdEbvgnprZjv/eHFXa9sVRskXdtm75RR8Lrn6u/qjKPf2WX5RDytKcn+AMg5rX6flFXK7SOnaL/FZU4XgUGJiNVAhR+5qTixjnAmDZY8zmxZ+iX6XXQOsf7Cp5OT7GoGi8ry9XL4XHEAr4jJQ+CI2ikZAdall0WofO273DUQpzb6KRggo9oQzoIvnyO2C/uAAEc/qirL2oV0pxgxA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

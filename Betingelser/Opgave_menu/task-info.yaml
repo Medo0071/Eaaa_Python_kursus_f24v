@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: I02bzx1U6gai2O406xKsC2cnMqOwbuZPjkrB2nIIY5RoijEwKSJAw3SKRavlDMlqAqNvhUSKNJNTP1r7fIAl8wN+DmzuB0XOfKj/leePer7yXov9cnf0NA3rV2MNvpSe715LErF4W/YKDRZ3eHEhPGJmwdgiSVDonO60mAga9TBk3rW1lPzH+HXAtxw6b3X12kmEXWuHi9GdW3SHbn2+BQAdIEdMz2URSGr5RW0W5snMPqXsimO3d4F1r3UzFURzgPElPaZA/YSKs6zxWG+buF9kK85UaAhvj2cQFEDspzGruE97M0wHZSWSChDG31b7ZJGO4LzhBI6rGu/GYUde71dwIW3HFKC+yBsmlXb6FDw=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

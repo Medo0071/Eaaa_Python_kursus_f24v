@@ -1,0 +1,1 @@
+<p>Len() funktionen tæller antal karakterer i en streng.</p>

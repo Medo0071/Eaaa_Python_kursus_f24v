@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: YoOJiSbqbvZVuvvxZHm4glvjYH8+2/85XfTT2CADIbSk7CZX8lXonBi6XKg29b8s5TWqCU+aTLgAT9Fi7LGuIb5ipqd9sLEq65c0G4oIAUNCIkSiER5V2hxhBKFXedIDuwvdZslG/bdAZY+q+Yuw1YIL2/RGCHWAfHOqho06a0O0LDhkOjEwI/OKQR+PpbRYb8r9h5JZcAV1yOf3e5lP1Q==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: Type_konvertering.py
+    visible: true
+    encrypted_text: YoOJiSbqbvZVuvvxZHm4glvjYH8+2/85XfTT2CADIbQHgKLfgsTZSJyi+SgfE+7d6bjjcMXBg/vwIGD7gmVhpDal5Puq4VANxYF5blhhDdPjef2Zlqh2VF4xLlYKe0Rsu69t9FP5f7aCdeMXLeeFoerdHr6WhEIhFs1q8Igk/WlHR7Jx29mIYPDcvN3kEh0XHcu4lpQfs0ulz1EX5u124w==
+    learner_created: false
+  - name: Test konverting af.py
+    visible: true
+    encrypted_text: 6cxIrh0jyims8W+FO1mdI3DCsqeKlWF2r8WRbeMMUOlZrZmYH2RNvwY/5APUIgdipyWcXYy+TDXEp0QscCKalg0SWQTVyoHec4HRDgpMytO7mHV2gBA0IAICipAO6Ukru9xNeApdS7SVx3AA0kbsCQL6eZ95lnjHGTF8DwsOwO7O76ghjs7rLcpLxU0Cza0ToE0Qv82NOu39IZsZ+Cf52QPz6LSTgbKJydoMrMOsFjIYEyUxvIZ89eBhaCPjFEFccOwBVOQeBzucqJlLOFCmY0W9b1sf/bIM1HnlcahvRrgFOJkYzOQ4p1s8RE3YxUgoIvd41vzaWCxz0mjkvV+KyFx/y1esiVgDXCD/Fsedg33zC9dmiUh4hNFSXcLPfyF5B6R/TXxmBwFIp5AyxyyBJV1W8r/WpSgqzYt7/Qw5e/o=
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

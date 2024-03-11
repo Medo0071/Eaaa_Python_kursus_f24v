@@ -1,0 +1,24 @@
+type: marketplace
+title: Eaaa Python kursus
+language: Danish
+summary: "This course is suitable for those who have never programmed before in Python.\n\
+  \ The course is in Danish and mainly for students at Eaaa. In this course the following\
+  \ subjects be discussed.\n - Variablers\n - Strings\n - Conditions\n - Loops \n\
+  \ - Functions\n - Moduls\n - Statemachine"
+programming_language: Python
+environment: unittest
+content:
+  - Intro
+  - Variabler
+  - Strings
+  - Betingelser
+  - Loops
+  - Opgaver 1
+  - Funktioner
+  - Moduler og pakker
+  - Opgaver 2
+  - Statemachine
+  - File write
+  - Data set
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/23570-eaaa-python-kursus/reviews

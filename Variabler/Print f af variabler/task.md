@@ -1,0 +1,1 @@
+Her vil vi ser på metoden f string til at printe variabler ud på skærmen.

@@ -1,0 +1,1 @@
+Brug kommandoen print til denne opgave, der må gerne benyttes mellem-variabler til udskriften.

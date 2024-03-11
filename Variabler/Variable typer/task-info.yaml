@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: /xM8QcdwLZTrXl6ew5I4L/8vf40zALbqMttGHPA1LwDs5ln7siTF6LH5lLbBPft2ceWWYfPnamD7VuMmbop/SvRvvrnIWc/8zWLjBEU+VoTgX1B0yf6Sy5Viopv3sxxYtaeOvf1b+hOa71uj/V6UUkcCT6K0OTjUqv4tWMvd9UA+whfo52tFr8OjC998mQ979aWQP1diLyOr2oRs4UR5oGEtGNv+QA10B2VqjqCLgeHOfqzSYGxMRIkGhaz+L79L/T7XO+mIHtrWZFTKwNDx62+koCj9SNDBEmTLQ8SJ5Hj9NfVtK34KtdKrKg7cFVGCnfxgiYhszHERTIl98RbG+g==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: Dic_fiber.py
+    visible: true
+    encrypted_text: M5O6NaoafZFfiXRqtKHeJXA7qhIdJagx49UKTTEyFOhVbuCkfs9uARoT1+HHuQIpmc6L0Ic7w7dXbjjARNTNSFF5Zy0JQTncA+OXXOpm9yHjP1OFqGZxAUjvuTdEDTRsfMsrmKzpko+dwVtJImZJL/R+qjjXTSYdK1k3JIlNEZDlx1sI4CJfGBDxmLl1tcCpnZGtpFlpbKe/7iKa49LLISOkG8s7nlUUzdB3PaiCj1BDkYpKyx8jdWQLDjULcLJCoO53hah5J2QoWyV2Ir4SR2sjOQrRTaNpXzhXpR+x/GGkLidVrhpQtDb29cRiNSw6kmAzhQYdFntJgCXHGY7iaW789C4y/2lWxFg4NvTEm1jGX81wsUelRu7Gl3gmvL/ZWMXkf86/xIecB6Th1uMqbFS+C0qJNthDmPVsfuArpkFSyk28THJAvQqN4UywscTLQ6Ytl29qWJxsHsWQZKLXSYxlcKDuscNnIP554fyLl5UZbqu1MKtfSGkmLlQIUmnQtSpOWtiUBx5iWZF91lgZ+ieXYv+GBPqSRtVF+DF1kRlsqogqara06KECYFQs5EVVvA6FOtwk9WEZam03LxQ395NEzEhceeZalIgehc1+1GFWKttqMSZOzr1lI4NTQjXEc0jkQhPT7NWCxTEtiRAV+Fk7kY8yTzofI67BATvADMuhnaLHYUrOSn30etCbfLQpZ9xf0LoJiOE2JvzF1pMM0k8H/gooaT7d1W69i1Sd1pVEdBjcMgWaMxNUZbVXodtz
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

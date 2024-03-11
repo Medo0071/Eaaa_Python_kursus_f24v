@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: Hello World.py
+    visible: true
+    encrypted_text: 2/xeKSQ0/QX3254MElYLvpmD82HT3bdF7a9164AUqfqu66TSBvjlkQgInA0rxag0
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,25 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: dY51pS1w9v61h5Gko+wW8cV2CK4P4zgr5C1ZG5uD54CZ8VHy+3V0QqeE1AHMjo8en/22Aer3d8zv1aQ8uuQ8d9TEB8VXq2oHwgO895/KHr/c5ynh+4IvW+r6QWN83trJBUP0fNY1OwzbID2WBd4n8qkAJVmBZbI1xzfOhP3ybe5k8p1sITgP1uFSneJKY/rnnsGvZhgD40Zq1DdJ44E50yvrAT/G4y7Jp2NEzEQEMyDQYwy+fj9lcdYYgQh+EhtFcPue2oPSDtD1QCgz1Knh1AWGD+UP474u1TGVLwIE8Ceqyn0u7n8WG67o/ttpxcjmS+kxSqcOx3LOznMSyCIjfy4ZLRzY5Uw4nUn3hbe4CM6xIGGzVyQBZJ91xkdfjRaw+ExJRO9II9T+S0IQnGdWbQ==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: Eks1.py
+    visible: true
+    encrypted_text: L3/ue56x3i0j5NceKdpI/h7E88nbevurCjYZBW2vkcToCK4qm7afcHV0W6WCfOyG
+    learner_created: false
+  - name: Eks2.py
+    visible: true
+    encrypted_text: VNyDZ2YgzUB4NjZkOBbUIT2vD+kG82KI7jknVlKq26bjxFAo+pvJVRSFwLl/2CjL+ySkdhivuhY66wOMPsOqZ0AHSgxxSXfbiOSkXGOSbytZ2oCUF/8o9n50X8eGM6CzFi+nJJeAnomRdMUvqbkI3l0kClw5k0KAxwY9LfvW3jw=
+    learner_created: false
+  - name: Eks3.py
+    visible: true
+    encrypted_text: h0R1At0DTsF8UrckgGEYHuUj1MNjOO+N0w0BBGTfWcDPmQ0A6BvU/FVpU2qN9ISwXsSFu9h3vw3QsAGGeRSaysWrI6f0m+Zse5zI7WfH7CAZyx/8ZzZT6lZwpfBslusvopanlW44SRwPom6msWOTQovZb5Y90z3l7U63oQGKg8i63P/0LC+m5+pizttSPl84fg9SYoVliSiDzSa363EErQ==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true
