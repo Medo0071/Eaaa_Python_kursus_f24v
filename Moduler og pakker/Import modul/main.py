@@ -1,6 +1,9 @@
-""" Dokumentationen for mit_modul.py som ineholder funktionen hello_world
+""" Dokumentationen for Mit_modul.py som indeholder funktionen hello_world
 """
+import Mit_modul
 
 
-def hello_world(name):
-    print("Hello, World! Mit navn er",name)
+name = input("Indtast dit navn her ")
+Mit_modul.hello_world(name)
+
+

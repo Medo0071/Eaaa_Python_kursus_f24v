@@ -1,16 +1,14 @@
 import datetime
 
+# x kan sammen med year, month og day angive dagsdato
 x = datetime.datetime.now()
 navn = input("hvad er dit navn? ")
-år = int(input("Hvilket år er du født? "))
-maaned = int(input("Hvilken måned er du født i? "))
-dag = int(input("Hvilken dag er du født? "))
+# Skriv de restende liner så alle info bliver indtastet:
+#Fødselsår, fødselsdato og fødselsdag
 
 år_antal = x.year - år
-maaned_antal = x.month - maaned
+måned_antal = x.month - måned
 day_antal = x.day - dag
 
-if maaned_antal < 0 or day_antal > 0:
-    print(f"Du hedder {navn} og du er {år_antal - 1}")
-else:
-    print(f"Du hedder {navn} og du er {år_antal}")
+# Ved hjælp af if skal der tage stilling til om der skal
+# trækkes 1 fra datoen eller den skal forblive år_antal
