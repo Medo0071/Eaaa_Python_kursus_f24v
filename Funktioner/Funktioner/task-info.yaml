@@ -8,6 +8,18 @@ files:
     visible: false
     encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
+  - name: Funktion_opg1.py
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+  - name: Funktion_opg2.py
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+  - name: Funktion_opg3.py
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
 status: Solved
 record: -1
 post_submission_on_open: true
