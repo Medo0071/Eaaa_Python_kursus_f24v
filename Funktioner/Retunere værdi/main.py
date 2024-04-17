@@ -3,11 +3,11 @@ def sum_two_numbers(a, b):
 
 
 c = sum_two_numbers(3, 12)  # variablen c tildeles summen af a og b
-
+print(f"De tal adders og giver {sum_two_numbers(3,12)}")
 
 def to_tal(x, y):
-    # global c
-    c = x + y
+    global c
+    #c = x + y
     return c
 
 
